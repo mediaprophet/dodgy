@@ -44,7 +44,7 @@ Or by alternatively using the username below
 elonmsk4663
 You can ask him to video call you when you connect with him
 
-## Telegram Content
+## Telegram Content  (see: [Web Version](https://mediaprophet.github.io/dodgy/ChatExport_2024-06-16/messages.html) )
 
 appreciate your presence here. May I inquire about the manager from my X team who extended the invitation for you to connect on Telegram? Could you kindly provide me with her name  for  reference?
 (audio Files Per Above)
