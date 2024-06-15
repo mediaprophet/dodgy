@@ -43,7 +43,7 @@ You can ask him to video call you when you connect with him
 
 ElonScam.mp4
 
-https://raw.githubusercontent.com/mediaprophet/dodgy/main/ElonScam.mp4 
+https://user-images.githubusercontent.com/mediaprophet/dodgy/main/ElonScam.mp4 
 
 ## Telegram Content
 
