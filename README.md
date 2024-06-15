@@ -48,13 +48,15 @@ You can ask him to video call you when you connect with him
 
 appreciate your presence here. May I inquire about the manager from my X team who extended the invitation for you to connect on Telegram? Could you kindly provide me with her name  for  reference?
 (audio Files Per Above)
-[Audio File 1](./userImages/audio_1@15-06-2024_16-29-14.ogg)
 
-[Audio File 2](./userImages/audio_2@15-06-2024_16-29-44.ogg)
+Audio File 1 | Audio File 2
+:-: | :-:
+<video src='https://github.com/mediaprophet/dodgy/assets/34872169/1044e51e-66e1-4249-9156-f4f48538561c' width=180/> | <video src='https://github.com/mediaprophet/dodgy/assets/34872169/61c03331-6326-433b-a2e1-c5aa9ded2706' width=180/>
+
 
 I eagerly await your action to block any potential fake accounts you've encountered on Telegram, WhatsApp, and X platform. Kindly block and delete all of them and notify me once you've finished this task.
 
-# ChatLog Images
+# ChatLog Images & Content
 
 ![](./userImages/Screenshot%202024-06-16%20030528.png)
 
@@ -63,4 +65,10 @@ I eagerly await your action to block any potential fake accounts you've encounte
 ![](./userImages/Screenshot%202024-06-16%20030640.png)
 
 ![](./userImages/Screenshot%202024-06-16%20025111.png)
+
+
+[audio_1@15-06-2024_16-29-14.webm](https://github.com/mediaprophet/dodgy/assets/34872169/1044e51e-66e1-4249-9156-f4f48538561c)  
+
+[audio_2@15-06-2024_16-29-44.webm](https://github.com/mediaprophet/dodgy/assets/34872169/61c03331-6326-433b-a2e1-c5aa9ded2706)
+
 
