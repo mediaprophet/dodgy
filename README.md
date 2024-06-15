@@ -41,7 +41,7 @@ Or by alternatively using the username below
 elonmsk4663
 You can ask him to video call you when you connect with him
 
-[https://mediaprophet.github.io/dodgy/ElonScam.mp4
+![https://mediaprophet.github.io/dodgy/ElonScam.mp4
 ](https://mediaprophet.github.io/dodgy/ElonScam.mp4)
 
 ## Telegram Content
