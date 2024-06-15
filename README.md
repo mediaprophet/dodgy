@@ -48,10 +48,9 @@ You can ask him to video call you when you connect with him
 
 appreciate your presence here. May I inquire about the manager from my X team who extended the invitation for you to connect on Telegram? Could you kindly provide me with her name  for  reference?
 
-![](./userImages/audio_1@15-06-2024_16-29-14.ogg)
+[Audio File 1]((./userImages/audio_1@15-06-2024_16-29-14.ogg)
 
-
-![](./userImages/audio_2@15-06-2024_16-29-44.ogg)
+[Audio File 2](./userImages/audio_2@15-06-2024_16-29-44.ogg)
 
 I eagerly await your action to block any potential fake accounts you've encountered on Telegram, WhatsApp, and X platform. Kindly block and delete all of them and notify me once you've finished this task.
 
