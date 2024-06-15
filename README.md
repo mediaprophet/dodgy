@@ -13,13 +13,11 @@ Not sure what happens after that...
 ## Content
 
 - [userImages](./userImages/)
-- 
 
-Audio File 1.
-![](./userImages/audio_1@15-06-2024_16-29-14.ogg)
+![Audio File 1](./userImages/audio_1@15-06-2024_16-29-14.ogg)
 
 Audio File 2.
-![](./userImages/audio_2@15-06-2024_16-29-44.ogg)
+![Audio File 2](./userImages/audio_2@15-06-2024_16-29-44.ogg)
 
 
 Download repo to get Chat Export in HTML Format. [Telegram Chat Export](./ChatExport_2024-06-16/)
