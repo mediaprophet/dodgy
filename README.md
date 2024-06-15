@@ -25,6 +25,10 @@ https://github.com/mediaprophet/dodgy/assets/34872169/63d1b533-43b0-45b0-a4d7-29
 
 ## Twitter PM from: https://x.com/Amandawebbb6262 
 
+![](./userImages/1500x500.jfif)
+
+![](./userImages/ifBLfvTm_400x400.jpg)
+
 Hello there!
 My name is Amanda , and I'm the Social Media Manager for Elon Musk I wanted to reach out and introduce myself. I also want to convey that Elon Musk  is truly humbled and deeply honored by your unwavering support. Your kind words and unwavering enthusiasm serve as a wellspring of inspiration, driving him and the entire team to continually strive for excellence. Your presence as a fan is genuinely appreciated.
 
