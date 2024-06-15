@@ -18,6 +18,9 @@ Not sure what happens after that...
 
 Download repo to get Chat Export in HTML Format. [Telegram Chat Export](./ChatExport_2024-06-16/)
 
+https://github.com/mediaprophet/dodgy/assets/34872169/63d1b533-43b0-45b0-a4d7-29708f068dc6
+
+
 ## Text Copy
 
 ## Twitter PM from: https://x.com/Amandawebbb6262 
@@ -40,9 +43,6 @@ Or by alternatively using the username below
 
 elonmsk4663
 You can ask him to video call you when you connect with him
-
-![https://mediaprophet.github.io/dodgy/ElonScam.mp4
-](https://mediaprophet.github.io/dodgy/ElonScam.mp4)
 
 ## Telegram Content
 
